@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="94px" viewBox="0 0 104 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Brand Button/Play L Pressed</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="88" height="77" rx="1"></rect>
+        <filter x="-18.2%" y="-10.4%" width="136.4%" height="141.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="editables" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ATOMS/Brand-Button/Play-L-Pressed" transform="translate(8.000000, 0.000000)">
+            <g id="bt_play_game_l_pressed">
+                <g id="button_backplate">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#96FFF3" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="Play-Game" font-family="NexaBold, Nexa" font-size="12" font-weight="bold" fill="#262448">
+                    <tspan x="8.2" y="66">PLAY GAME</tspan>
+                </text>
+                <g id="ic-play-L" transform="translate(24.000000, 10.000000)" fill="#262448" fill-rule="nonzero">
+                    <path d="M8.79137876,37.9232031 C8.44687117,38.1313338 8,37.8919231 8,37.4992228 L8,2.50077723 C8,2.1080769 8.44687117,1.86866615 8.79137876,2.07679691 L37.756896,19.5760197 C38.0810347,19.7718448 38.0810347,20.2281552 37.756896,20.4239803 L8.79137876,37.9232031 Z" id="ic_play_l"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
